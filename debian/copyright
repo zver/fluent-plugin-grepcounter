@@ -1,0 +1,12 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: fluent-plugin-grepcounter
+Source: http://github.com/sonots/fluent-plugin-grepcounter/
+
+Files: *
+Copyright: 2014 sonots
+License: MIT
+
+Files: debian/*
+Copyright: 2014 Denis Klimov
+License: GPL-2.0+
+
