@@ -1,0 +1,5 @@
+fluent-plugin-grepcounter (0.5.3) stable; urgency=low
+
+  * Initial release.
+
+ -- Denis Klimov <zver@altlinux.org>  Fri, 11 Apr 2014 23:08:20 +0600
